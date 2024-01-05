@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: chop-up
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Arran Øystein Kostveit
+    family-names: Gabriel
+    email: arrankg@gmail.com
+    affiliation: NTNU/EPFL
+repository-code: 'https://github.com/arrangabriel/chop-up'
+license: BSD-3-Clause
+commit: e46935ac45c72a910dd3d76fd521054e87c19e3c
+version: 0.1.0
+date-released: '2024-01-05'
